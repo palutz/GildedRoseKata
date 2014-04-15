@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/GildedRose.Console/QualityChecked/QualityCheckedItem.cs">
+    <Files>
+      <File FileName="src/GildedRose.Console/Program.cs" Line="1" Column="1" />
+      <File FileName="src/GildedRose.Console/QualityChecked/CheckedItemFactory.cs" Line="1" Column="1" />
+      <File FileName="src/GildedRose.Console/QualityChecked/AgedBrieItem.cs" Line="1" Column="1" />
+      <File FileName="src/GildedRose.Console/QualityChecked/QualityCheckedItem.cs" Line="23" Column="26" />
+      <File FileName="src/GildedRose.Tests/TestQuality.cs" Line="1" Column="1" />
+      <File FileName="src/GildedRose.Console/QualityChecked/BackstageItem.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True">
+          <Node name="GildedRose.Tests" expanded="True">
+            <Node name="GildedRose" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="TestAssemblyTests" expanded="True" />
+                <Node name="TestItemFactory" expanded="True" />
+                <Node name="TestQuality" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
